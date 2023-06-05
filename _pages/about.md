@@ -31,14 +31,23 @@ I am a currently highly self-cited researcher recognised by Google Scholar and C
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[Finite-time observer-based formation tracking with application to omni-directional robots]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://www.tandfonline.com/doi/abs/10.1080/00207721.2020.1783385))
 
-[Neural network adaptive dynamic sliding mode formation control of multi-agent systems]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://www.tandfonline.com/doi/abs/10.1080/00207721.2020.1783385))
+**Yang Fei**, Peng Shi, Chee Peng Lim
+
+[**Project code**](https://github.com/YangFei9606/Robust-and-cooperative-formation-control-of-nonlinear-multi-agent-systems/tree/main/Arduino-based%20practical%203-wheel%20rover%20development) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  
+  
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJSS 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Neural network adaptive dynamic sliding mode formation control of multi-agent systems](https://www.tandfonline.com/doi/abs/10.1080/00207721.2020.1783385)
 
 **Yang Fei**, Peng Shi, Cheng-Chew Lim
 
-[**Project code**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/YangFei9606/Robust-and-cooperative-formation-control-of-nonlinear-multi-agent-systems/tree/main/Neural_network_adaptive_dynamic_sliding_mode_formation_control_of_multi_agent%20systems)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
   
