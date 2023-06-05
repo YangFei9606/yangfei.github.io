@@ -93,8 +93,7 @@ I am a currently highly self-cited researcher recognised by Google Scholar and C
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJSS 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
 [Neural network adaptive dynamic sliding mode formation control of multi-agent systems](https://www.tandfonline.com/doi/abs/10.1080/00207721.2020.1783385)
 
 **Yang Fei**, Peng Shi, Cheng-Chew Lim
