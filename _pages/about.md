@@ -116,4 +116,6 @@ I am a currently highly self-cited researcher recognised by Google Scholar and C
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Working experience
-- *2023.01 - 2023.06*, Research Assistant, Tsinghua University, China.
+- *2023.01 - 2023.06*, Research Assistant, Tsinghua University, China. (Full-time)
+- *2019.08 - 2022.11*, Final-Year Project Advisor, The University of Adelaide, Australia. (Part-time)
+- *2019.09 - 2022.07*, Part-Time Lecturer, The University of Adelaide, Australia. (Part-time)
