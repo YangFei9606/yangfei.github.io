@@ -97,7 +97,7 @@ I am a currently highly self-cited researcher recognised by Google Scholar and C
 
 </div>
   
-  
+</div>
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
