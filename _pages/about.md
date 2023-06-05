@@ -42,6 +42,7 @@ I am a currently highly self-cited researcher recognised by Google Scholar and C
   
   
 </div>
+</div>
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NODY 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -52,6 +53,7 @@ I am a currently highly self-cited researcher recognised by Google Scholar and C
 [**Project code**](https://github.com/YangFei9606/Robust-and-cooperative-formation-control-of-nonlinear-multi-agent-systems/tree/main/Neural-based%20formation%20control%20of%20uncertain%20multi-agent%20systems%20with%20actuator%20saturation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   
   
+</div>
 </div>
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Drones 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -64,6 +66,7 @@ I am a currently highly self-cited researcher recognised by Google Scholar and C
   
   
 </div>
+</div>
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -75,6 +78,7 @@ I am a currently highly self-cited researcher recognised by Google Scholar and C
   
   
 </div>
+</div>
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-1 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -85,6 +89,7 @@ I am a currently highly self-cited researcher recognised by Google Scholar and C
 [**Project code**](https://github.com/YangFei9606/Robust-and-cooperative-formation-control-of-nonlinear-multi-agent-systems/tree/main/Robust_formation_control_for_multi_agent_systems_a_reference_correction_based_approach) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   
   
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJSS 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
