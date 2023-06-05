@@ -99,20 +99,26 @@ I am a currently highly self-cited researcher recognised by Google Scholar and C
 **Yang Fei**, Peng Shi, Cheng-Chew Lim
 
 [Project code](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09* The University of Adelaide Graduation Valedictorian. [My Speech](https://www.bilibili.com/video/BV1P14y1a7XW/?spm_id_from=333.999.0.0&vd_source=400c7ffb0cc1ed249e8a7566f50e331b)
+- *2022.07* The University of Adelaide Dean’s Commendation of Doctoral Thesis Excellence.
+- *2021.09* Institute of Engineering and Technology Presentin10 "Digital Electronics" Scetion, Top 3 Finalists. 
+- *2021.05* The University of Adelaide Faculty of ECMS HDR Students Travel Scholarship.
+- *2020.12* International Symposium of Information and Knowledge Management 2020, Best Presentation Award.
+- *2020.04* The University of Adelaide Frank Perry Scholarship.
+- *2019.11* Institute of Engineering and Technology Presentation Around The World 2019 South Australia & Northern Territory, State Runner-Up. 
+- *2019.10* Institute of Engineering and Technology Presentation Around The World 2019 South Australia & Northern Territory, Audience's Choice. 
+- *2019.10* Institute of Engineering and Technology Presentation Around The World 2019 South Australia & Northern Territory, Student Winner. 
+- *2019.01* The University of Adelaide Faculty of ECMS Divisional Scholarship.
 
 # 📖 Educations
 - *2019.02 - 2022.07*, The University of Adelaide, School of Electrical and Electronic Engineering, Doctor of Philosophy. 
 - *2014.09 - 2018.06*, Harbin Institute of Technology, School of Astronautics, Bachelor of Enginerring. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
 
 # 💻 Working experience
 - *2023.01 - 2023.06*, Research Assistant, Tsinghua University, China. (Full-time)
