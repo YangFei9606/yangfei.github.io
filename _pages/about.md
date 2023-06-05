@@ -38,7 +38,8 @@ I am a currently highly self-cited researcher recognised by Google Scholar and C
 **Yang Fei**, Peng Shi, Chee Peng Lim, Xin Yuan
 
 [**Project code**](https://github.com/YangFei9606/Robust-and-cooperative-formation-control-of-nonlinear-multi-agent-systems/tree/main/Arduino-based%20practical%203-wheel%20rover%20development) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[Demo](https://www.youtube.com/watch?v=9VxhM9GsYoA&t=6s&ab_channel=YangFei)
+  
+[**Demo**](https://www.youtube.com/watch?v=9VxhM9GsYoA&t=6s&ab_channel=YangFei)
   
   
 </div>
@@ -50,7 +51,7 @@ I am a currently highly self-cited researcher recognised by Google Scholar and C
 
 **Yang Fei**, Peng Shi, Cheng-Chew Lim
 
-[**Project code**](https://github.com/YangFei9606/Robust-and-cooperative-formation-control-of-nonlinear-multi-agent-systems/tree/main/Neural-based%20formation%20control%20of%20uncertain%20multi-agent%20systems%20with%20actuator%20saturation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[Project code](https://github.com/YangFei9606/Robust-and-cooperative-formation-control-of-nonlinear-multi-agent-systems/tree/main/Neural-based%20formation%20control%20of%20uncertain%20multi-agent%20systems%20with%20actuator%20saturation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   
   
 </div>
@@ -62,7 +63,7 @@ I am a currently highly self-cited researcher recognised by Google Scholar and C
 
 **Yang Fei**, Yuan Sun, Peng Shi
 
-[**Project code**](https://github.com/YangFei9606/Robust-and-cooperative-formation-control-of-nonlinear-multi-agent-systems/tree/main/Adaptive_formation_control_of_multi_uav_systems) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[Project code](https://github.com/YangFei9606/Robust-and-cooperative-formation-control-of-nonlinear-multi-agent-systems/tree/main/Adaptive_formation_control_of_multi_uav_systems) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   
   
 </div>
@@ -98,12 +99,9 @@ I am a currently highly self-cited researcher recognised by Google Scholar and C
 
 **Yang Fei**, Peng Shi, Cheng-Chew Lim
 
-[**Project code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[Project code](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -117,5 +115,5 @@ I am a currently highly self-cited researcher recognised by Google Scholar and C
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Working experience
+- *2023.01 - 2023.06*, Research Assistant, Tsinghua University, China.
