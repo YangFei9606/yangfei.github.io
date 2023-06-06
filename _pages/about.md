@@ -45,7 +45,7 @@ I am a currently highly self-cited researcher recognised by Google Scholar and C
 </div>
 </div>
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NODY 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NODY 2022</div><img src='images/NODY 2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Neural-based formation control of uncertain multi-agent systems with actuator saturation](https://link.springer.com/article/10.1007/s11071-022-07434-2)
 
@@ -57,7 +57,7 @@ I am a currently highly self-cited researcher recognised by Google Scholar and C
 </div>
 </div>
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Drones 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Drones 2022</div><img src='images/Drones 2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Robust Hierarchical Formation Control of Unmanned Aerial Vehicles via Neural-Based Observers](https://www.mdpi.com/2504-446X/6/2/40)
 
@@ -69,7 +69,7 @@ I am a currently highly self-cited researcher recognised by Google Scholar and C
 </div>
 </div>
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2021</div><img src='images/TNNLS 2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Robust and Collision-Free Formation Control of Multiagent Systems with Limited Information](https://ieeexplore.ieee.org/abstract/document/9552431)
 
@@ -81,7 +81,7 @@ I am a currently highly self-cited researcher recognised by Google Scholar and C
 </div>
 </div>
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-1 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-1 2021</div><img src='images/TCAS-1 2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Robust formation control for multi-agent systems: A reference correction based approach](https://ieeexplore.ieee.org/abstract/document/9386261)
 
@@ -100,6 +100,8 @@ I am a currently highly self-cited researcher recognised by Google Scholar and C
 
 [Project code](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2022.09* The University of Adelaide Graduation Valedictorian. [My Speech](https://www.bilibili.com/video/BV1P14y1a7XW/?spm_id_from=333.999.0.0&vd_source=400c7ffb0cc1ed249e8a7566f50e331b)
