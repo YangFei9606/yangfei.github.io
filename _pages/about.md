@@ -89,11 +89,11 @@ I am a currently highly self-cited researcher recognised by Google Scholar and C
 
 [**Project code**](https://github.com/YangFei9606/Robust-and-cooperative-formation-control-of-nonlinear-multi-agent-systems/tree/main/Robust_formation_control_for_multi_agent_systems_a_reference_correction_based_approach) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   
-  
 </div>
 </div>
 
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-1 2021</div><img src='images/IJSS 2020.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 [Neural network adaptive dynamic sliding mode formation control of multi-agent systems](https://www.tandfonline.com/doi/abs/10.1080/00207721.2020.1783385)
 
 **Yang Fei**, Peng Shi, Cheng-Chew Lim
