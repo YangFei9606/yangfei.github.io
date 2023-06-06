@@ -19,7 +19,7 @@ redirect_from:
 
 I was born in Harbin, Heilongjiang.
 I received his bachelor's degree in Automation from Harbin Institute of Technology in 2018,
-then he obtained his Ph.D. degree in Electrical and Electronic Engineering from The University of Adelaide in 2022. 
+then I obtained my Ph.D. degree in Electrical and Electronic Engineering from The University of Adelaide in 2022. 
 
 My research interest includes neural networks, intelligent control, real-time embedded systems and robotics. 
 I am a currently highly self-cited researcher recognised by Google Scholar and Clarivate. 
