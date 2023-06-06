@@ -31,7 +31,7 @@ I am a currently highly self-cited researcher recognised by Google Scholar and C
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2023</div><img src='images/TIE 2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Finite-time observer-based formation tracking with application to omni-directional robots](https://ieeexplore.ieee.org/abstract/document/9967962)
 
