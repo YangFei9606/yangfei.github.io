@@ -120,7 +120,7 @@ I am currently a highly self-cited researcher recognised by Google Scholar and C
 - *2014.09 - 2018.06*, Harbin Institute of Technology, School of Astronautics, Bachelor of Enginerring. 
 
 # 👓 Academic Appointments
-- *2020.08 - Now*, Peer reviewer (IEEE Transactions on Cybernetics, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Intelligent Vehicles, IEEE Transactions on Circuits and Systems I: Regular Papers, Nonlinear Dynamics, International Journal on Robust and Nonlinear Control, )
+- *2020.08 - Now*, Peer reviewer (IEEE Transactions on Cybernetics, Automatica, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Electronics, IEEE Transactions on Intelligent Vehicles, IEEE Systems Journal, IEEE Transactions on Circuits and Systems I: Regular Papers, Nonlinear Dynamics, International Journal on Robust and Nonlinear Control)
 - *2023.05 - 2023.07*, Associate Editor, IEEE International Conference on Systems, Man and Cybernetics 2023. 
 
 # 💬 Invited Talks
