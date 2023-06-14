@@ -1,4 +1,4 @@
-<!-- ---
+---
 permalink: /
 title: "Biography"
 excerpt: ""
@@ -17,15 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
---- -->
----
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 <span class='anchor' id='about-me'></span>
