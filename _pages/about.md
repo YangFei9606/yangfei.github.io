@@ -35,6 +35,21 @@ I am currently a highly self-cited researcher recognised by Google Scholar and C
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE 2023</div><img src='images/TIE 2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Dynamically Triggered Estimator-Based Controller and Its Application on An Omnidirectional Robot]
+
+**Yang Fei**, Daotong Zhang, Yuan Sun, Peng Shi
+
+[**Project code**]([https://github.com/YangFei9606/Robust-and-cooperative-formation-control-of-nonlinear-multi-agent-systems/tree/main/Arduino-based%20practical%203-wheel%20rover%20development](https://github.com/YangFei9606/Dynamically_triggered_estimator_based_controller_and_its_applications)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  
+[**Demo**](https://www.youtube.com/watch?v=7-snrcksPjU&ab_channel=YangFei)
+  
+  
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2023</div><img src='images/TIE 2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Finite-time observer-based formation tracking with application to omni-directional robots](https://ieeexplore.ieee.org/abstract/document/9967962)
