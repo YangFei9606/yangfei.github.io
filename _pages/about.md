@@ -35,7 +35,7 @@ I am currently a highly self-cited researcher recognised by Google Scholar and C
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE 2023</div><img src='images/TIE 2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE 2023</div><img src='images/TASE 2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Dynamically Triggered Estimator-Based Controller and Its Application on An Omnidirectional Robot]
 
