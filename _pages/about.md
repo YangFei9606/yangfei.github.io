@@ -39,6 +39,8 @@ I am currently a highly self-cited researcher recognised by Google Scholar and C
 <div class='paper-box-text' markdown="1">
 [Dynamically Triggered Estimator-Based Controller and Its Application on An Omnidirectional Robot]
 
+IEEE Transactions on Automation Science and Engineering
+
 **Yang Fei**, Daotong Zhang, Yuan Sun, Peng Shi
 
 [**Project code**]([https://github.com/YangFei9606/Robust-and-cooperative-formation-control-of-nonlinear-multi-agent-systems/tree/main/Arduino-based%20practical%203-wheel%20rover%20development](https://github.com/YangFei9606/Dynamically_triggered_estimator_based_controller_and_its_applications)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -56,6 +58,8 @@ I am currently a highly self-cited researcher recognised by Google Scholar and C
 
 **Yang Fei**, Peng Shi, Chee Peng Lim, Xin Yuan
 
+IEEE Transactions on Industrial Electronics
+
 [**Project code**](https://github.com/YangFei9606/Robust-and-cooperative-formation-control-of-nonlinear-multi-agent-systems/tree/main/Arduino-based%20practical%203-wheel%20rover%20development) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   
 [**Demo**](https://www.youtube.com/watch?v=9VxhM9GsYoA&t=6s&ab_channel=YangFei)
@@ -70,6 +74,8 @@ I am currently a highly self-cited researcher recognised by Google Scholar and C
 
 **Yang Fei**, Peng Shi, Cheng-Chew Lim
 
+Nonlinear Dynamics
+
 [Project code](https://github.com/YangFei9606/Robust-and-cooperative-formation-control-of-nonlinear-multi-agent-systems/tree/main/Neural-based%20formation%20control%20of%20uncertain%20multi-agent%20systems%20with%20actuator%20saturation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   
   
@@ -81,6 +87,8 @@ I am currently a highly self-cited researcher recognised by Google Scholar and C
 [Robust Hierarchical Formation Control of Unmanned Aerial Vehicles via Neural-Based Observers](https://www.mdpi.com/2504-446X/6/2/40)
 
 **Yang Fei**, Yuan Sun, Peng Shi
+
+Drones
 
 [Project code](https://github.com/YangFei9606/Robust-and-cooperative-formation-control-of-nonlinear-multi-agent-systems/tree/main/Adaptive_formation_control_of_multi_uav_systems) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   
@@ -94,6 +102,8 @@ I am currently a highly self-cited researcher recognised by Google Scholar and C
 
 **Yang Fei**, Peng Shi, Cheng-Chew Lim
 
+IEEE Transactions on Neural Networks and Learning Systems
+
 [**Project code**](https://github.com/YangFei9606/Robust-and-cooperative-formation-control-of-nonlinear-multi-agent-systems/tree/main/Robust_and_collision_free_formation_control_of_multiagent_systems_with_limited_information) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   
   
@@ -106,6 +116,8 @@ I am currently a highly self-cited researcher recognised by Google Scholar and C
 
 **Yang Fei**, Peng Shi, Cheng-Chew Lim
 
+IEEE Transactions on Circuits and Systems I: Regular Papers
+
 [**Project code**](https://github.com/YangFei9606/Robust-and-cooperative-formation-control-of-nonlinear-multi-agent-systems/tree/main/Robust_formation_control_for_multi_agent_systems_a_reference_correction_based_approach) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   
 </div>
@@ -116,6 +128,8 @@ I am currently a highly self-cited researcher recognised by Google Scholar and C
 [Neural network adaptive dynamic sliding mode formation control of multi-agent systems](https://www.tandfonline.com/doi/abs/10.1080/00207721.2020.1783385)
 
 **Yang Fei**, Peng Shi, Cheng-Chew Lim
+
+International Journal of Systems Science
 
 [Project code](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
