@@ -39,9 +39,9 @@ I am currently a highly self-cited researcher recognised by Google Scholar and C
 <div class='paper-box-text' markdown="1">
 [Dynamically Triggered Estimator-Based Controller and Its Application on An Omnidirectional Robot]
 
-IEEE Transactions on Automation Science and Engineering
-
 **Yang Fei**, Daotong Zhang, Yuan Sun, Peng Shi
+
+IEEE Transactions on Automation Science and Engineering
 
 [**Project code**]([https://github.com/YangFei9606/Robust-and-cooperative-formation-control-of-nonlinear-multi-agent-systems/tree/main/Arduino-based%20practical%203-wheel%20rover%20development](https://github.com/YangFei9606/Dynamically_triggered_estimator_based_controller_and_its_applications)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   
