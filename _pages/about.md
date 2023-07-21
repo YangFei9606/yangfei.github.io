@@ -30,6 +30,7 @@ I am currently a highly self-cited researcher recognised by Google Scholar and C
 
 
 # 🔥 News
+- *2023.07.07*: &nbsp;🎉🎉 Yang was selected as a member of the National Overseas Talented Researcher Recruitment Program-Post-Doc Researcher Sector. 
 - *2022.09.21*: &nbsp;🎉🎉 Yang attended his graduation ceremony as the Valedictorian. 
 - *2022.07.31*: &nbsp;🎉🎉 Yang obtained his Ph.D. degree from the University of Adelaide. 
 
