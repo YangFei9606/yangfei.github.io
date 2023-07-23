@@ -30,7 +30,6 @@ I am currently a highly self-cited researcher recognised by Google Scholar and C
 
 
 # 🔥 News
-{%- *2023.07.07*: &nbsp;🎉🎉 Yang was selected as a member of the Chinese Overseas Talented Researcher Recruitment Program-Post-Doc Researcher Sector. %}
 - *2022.09.21*: &nbsp;🎉🎉 Yang attended his graduation ceremony as the Valedictorian. 
 - *2022.07.31*: &nbsp;🎉🎉 Yang obtained his Ph.D. degree from the University of Adelaide. 
 
@@ -138,7 +137,6 @@ International Journal of Systems Science
 </div>
 
 # 🎖 Honors and Awards
-{% - *2023.07* The 1st Chinese Overseas Talented Researcher Recruitment Program-Post-Doc Researcher Sector % }
 - *2022.09* The University of Adelaide, Graduation Valedictorian. [My Speech](https://www.bilibili.com/video/BV1P14y1a7XW/?spm_id_from=333.999.0.0&vd_source=400c7ffb0cc1ed249e8a7566f50e331b)
 - *2022.07* The University of Adelaide, Dean’s Commendation of Doctoral Thesis Excellence.
 - *2021.09* Institute of Engineering and Technology, Presentin10 "Digital Electronics" Section, Top 3 Finalists. 
