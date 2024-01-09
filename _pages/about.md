@@ -25,7 +25,7 @@ I was born in Harbin, Heilongjiang.
 I received my bachelor's degree in Automation from Harbin Institute of Technology in 2018,
 then I obtained my Ph.D. degree in Electrical and Electronic Engineering from The University of Adelaide in 2022. 
 
-My research interest includes neural networks, intelligent control, real-time embedded systems and robotics. 
+My research interests include neural networks, intelligent control, real-time embedded systems and robotics. 
 I am currently a highly self-cited researcher recognised by Google Scholar and Clarivate. 
 
 
@@ -36,6 +36,16 @@ I am currently a highly self-cited researcher recognised by Google Scholar and C
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2024</div><img src='images/KBS 2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Formation control of multi-agent systems with actuator saturation via neural-based sliding mode estimators](https://www.sciencedirect.com/science/article/abs/pii/S0950705123010407)
+
+**Yang Fei**, Peng Shi, Yankai Li, Yang Liu, Xiaobo Qu
+
+Knowledge-Based Systems
+
+[**Project code**](https://github.com/YangFei9606/Control-Engineering-in-Intelligent-Transportation-Systems/tree/main/Formation_Control_of_Multi_Agent_Systems_with_Actuator_Saturation_via_Neural_Based_Sliding_Mode_Estimators) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE 2023</div><img src='images/TASE 2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Dynamically Triggered Estimator-Based Controller and Its Application on An Omnidirectional Robot](https://ieeexplore.ieee.org/document/10180126)
@@ -44,7 +54,7 @@ I am currently a highly self-cited researcher recognised by Google Scholar and C
 
 IEEE Transactions on Automation Science and Engineering
 
-[**Project code**]([https://github.com/YangFei9606/Robust-and-cooperative-formation-control-of-nonlinear-multi-agent-systems/tree/main/Arduino-based%20practical%203-wheel%20rover%20development](https://github.com/YangFei9606/Dynamically_triggered_estimator_based_controller_and_its_applications)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project code**](https://github.com/YangFei9606/Dynamically_triggered_estimator_based_controller_and_its_applications) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   
 [**Demo**](https://www.youtube.com/watch?v=7-snrcksPjU&ab_channel=YangFei)
   
