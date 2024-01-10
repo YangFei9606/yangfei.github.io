@@ -102,7 +102,7 @@ Nonlinear Dynamics
 
 **Yang Fei**, Yuan Sun, Peng Shi
 
-Drones
+Drones (Invited)
 
 [Project code](https://github.com/YangFei9606/Robust-and-cooperative-formation-control-of-nonlinear-multi-agent-systems/tree/main/Adaptive_formation_control_of_multi_uav_systems) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   
