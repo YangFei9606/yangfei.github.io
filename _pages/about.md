@@ -176,6 +176,7 @@ International Journal of Systems Science
 
 # 💬 Invited Talks
 If you want to invite me to have a talk, I would be really happy.
+- *2024.08* Young Scientists Salon in Intelligent Guidance and Control. 
 
 # 💻 Working experience
 - *2023.07 - Now*, Post-Doctoral Research Fellow, Tsinghua University, China. (Full-time)
